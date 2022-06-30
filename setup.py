@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="calculator_demo_pkg",
-    version="0.0.1",
+    version="0.0.4",
     author="Akhil",
     author_email="akhil@example.com",
     description="A calculator package",
